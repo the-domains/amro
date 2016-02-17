@@ -1,0 +1,14 @@
+layout_spectrum: 0.8769786
+typography_spectrum: 0.7138813
+color:
+  saturation: 0.5973756
+  lightness: 0.2367744
+  brandStrength: 0.4914071
+  brandColors:
+    - '#665E48'
+    - '#1F0D0C'
+    - '#B3A491'
+    - '#4B3A2F'
+    - '#A28066'
+  rhythmicContrast: 0.1834815
+name: Amro
